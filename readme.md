@@ -4,6 +4,10 @@ Demonstrates a reorg race condition issue in Geth with RPC call `eth_getTransact
 
 Immediately after a reorg, `eth_getTransactionReceipt` returns the `blockHash` of the old reorged block rather than the new block. This usually fixes itself but under some conditions can persist.
 
+See [Geth issue 28992](https://github.com/ethereum/go-ethereum/issues/28992)
+
+See [forked blocks tracked by Etherscan](https://etherscan.io/blocks_forked?p=1) 
+
 ## Geth info
 
 - Geth Version: `geth version 1.13.11-stable-8f7eb9cc`

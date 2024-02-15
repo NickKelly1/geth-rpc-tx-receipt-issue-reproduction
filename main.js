@@ -127,7 +127,7 @@ async function onNewBlockHeader(header) {
         `\x1b[90m[${new Date().toISOString()}  ${n}  ${runId}]\x1b[0m`
           + ` \x1b[31minconsistent block data\x1b[0m`
           + `\n  \x1b[32mtransactions\x1b[0m:       ${inconsistentTransactions.length.toLocaleString()}`
-          + `\n  \x1b[32m filename\x1b[0m:          ${filename}`
+          + `\n  \x1b[32mfilename\x1b[0m:           ${filename}`
           + `\n  \x1b[32mheader.number\x1b[0m:      ${headerNumber.toLocaleString()}  ${header.number}`
           + `\n  \x1b[32mheader.hash\x1b[0m:        \x1b[35m${header.hash.slice(0, 10)}\x1b[90m${header.hash.slice(10)}\x1b[0m`
           + `\n  \x1b[32mheader.parentHash\x1b[0m:  \x1b[35m${header.parentHash.slice(0, 10)}\x1b[90m${header.parentHash.slice(10)}\x1b[0m`
