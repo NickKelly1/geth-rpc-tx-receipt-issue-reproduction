@@ -57,7 +57,7 @@ async function onNewBlockHeader(header) {
   let receiptsAreInconsistent = false;
   while (attempt === 0 || receiptsAreInconsistent) {
     attempt += 1;
-    if (attempt > 0) await new Promise((resolve) => setTimeout(resolve, 500));
+    if (attempt > 1) await new Promise((resolve) => setTimeout(resolve, 750));
 
     const block = await fetch(HTTP_URL, {
       keepalive: true,
