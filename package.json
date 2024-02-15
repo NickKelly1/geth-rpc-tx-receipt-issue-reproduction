@@ -1,0 +1,14 @@
+{
+	"name": "geth-rpc-tx-receipt-issue-reproduction",
+	"private": true,
+	"type": "module",
+	"scripts": {
+		"start": "node ./main.js"
+	},
+	"devDependencies": {
+		"@types/node": "^20.11.17"
+	},
+	"dependencies": {
+		"ws": "^8.16.0"
+	}
+}
