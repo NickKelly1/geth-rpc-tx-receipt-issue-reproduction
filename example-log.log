@@ -857,7 +857,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   header.timestamp:   2024-02-15T05:20:23.000Z  0x65cd9f17  2s ago
 [2024-02-15T05:20:26.458Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-001.json
+  filename:           reorgs/block-19231205/attempt-001.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -868,7 +868,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  3s ago
 [2024-02-15T05:20:27.624Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-002.json
+  filename:           reorgs/block-19231205/attempt-002.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -879,7 +879,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  4s ago
 [2024-02-15T05:20:28.982Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-003.json
+  filename:           reorgs/block-19231205/attempt-003.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -890,7 +890,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  5s ago
 [2024-02-15T05:20:30.115Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-004.json
+  filename:           reorgs/block-19231205/attempt-004.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -901,7 +901,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  7s ago
 [2024-02-15T05:20:31.195Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-005.json
+  filename:           reorgs/block-19231205/attempt-005.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -912,7 +912,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  8s ago
 [2024-02-15T05:20:32.600Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-006.json
+  filename:           reorgs/block-19231205/attempt-006.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -923,7 +923,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  9s ago
 [2024-02-15T05:20:33.746Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-007.json
+  filename:           reorgs/block-19231205/attempt-007.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -934,7 +934,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  10s ago
 [2024-02-15T05:20:35.104Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-008.json
+  filename:           reorgs/block-19231205/attempt-008.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -950,7 +950,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   header.timestamp:   2024-02-15T05:20:35.000Z  0x65cd9f23  1s ago
 [2024-02-15T05:20:36.529Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-009.json
+  filename:           reorgs/block-19231205/attempt-009.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -962,7 +962,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
 [2024-02-15T05:20:36.655Z  19,231,206  122] block ok  header.number=19,231,206  0x0ef640f9
 [2024-02-15T05:20:37.931Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-010.json
+  filename:           reorgs/block-19231205/attempt-010.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -973,7 +973,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  14s ago
 [2024-02-15T05:20:39.021Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-011.json
+  filename:           reorgs/block-19231205/attempt-011.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -984,7 +984,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  16s ago
 [2024-02-15T05:20:40.146Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-012.json
+  filename:           reorgs/block-19231205/attempt-012.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -995,7 +995,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  17s ago
 [2024-02-15T05:20:41.312Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-013.json
+  filename:           reorgs/block-19231205/attempt-013.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -1006,7 +1006,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  18s ago
 [2024-02-15T05:20:42.471Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-014.json
+  filename:           reorgs/block-19231205/attempt-014.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -1017,7 +1017,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  19s ago
 [2024-02-15T05:20:43.865Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-015.json
+  filename:           reorgs/block-19231205/attempt-015.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -1028,7 +1028,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  20s ago
 [2024-02-15T05:20:44.948Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-016.json
+  filename:           reorgs/block-19231205/attempt-016.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -1039,7 +1039,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  21s ago
 [2024-02-15T05:20:46.186Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-017.json
+  filename:           reorgs/block-19231205/attempt-017.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -1050,7 +1050,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  23s ago
 [2024-02-15T05:20:47.318Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-018.json
+  filename:           reorgs/block-19231205/attempt-018.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -1061,7 +1061,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  24s ago
 [2024-02-15T05:20:48.727Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-019.json
+  filename:           reorgs/block-19231205/attempt-019.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -1077,7 +1077,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   header.timestamp:   2024-02-15T05:20:47.000Z  0x65cd9f2f  2s ago
 [2024-02-15T05:20:49.819Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-020.json
+  filename:           reorgs/block-19231205/attempt-020.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -1088,7 +1088,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  26s ago
 [2024-02-15T05:20:50.060Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-001.json
+  filename:           reorgs/block-19231207/attempt-001.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -1099,7 +1099,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  3s ago
 [2024-02-15T05:20:50.856Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-021.json
+  filename:           reorgs/block-19231205/attempt-021.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -1110,7 +1110,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  27s ago
 [2024-02-15T05:20:51.079Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-002.json
+  filename:           reorgs/block-19231207/attempt-002.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -1121,7 +1121,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  4s ago
 [2024-02-15T05:20:52.159Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-022.json
+  filename:           reorgs/block-19231205/attempt-022.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -1132,7 +1132,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  29s ago
 [2024-02-15T05:20:52.292Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-003.json
+  filename:           reorgs/block-19231207/attempt-003.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -1143,7 +1143,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  5s ago
 [2024-02-15T05:20:53.174Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-023.json
+  filename:           reorgs/block-19231205/attempt-023.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -1154,7 +1154,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  30s ago
 [2024-02-15T05:20:53.377Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-004.json
+  filename:           reorgs/block-19231207/attempt-004.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -1165,7 +1165,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  6s ago
 [2024-02-15T05:20:54.417Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-024.json
+  filename:           reorgs/block-19231205/attempt-024.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -1176,7 +1176,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  31s ago
 [2024-02-15T05:20:54.539Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-005.json
+  filename:           reorgs/block-19231207/attempt-005.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -1187,7 +1187,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  7s ago
 [2024-02-15T05:20:55.426Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-025.json
+  filename:           reorgs/block-19231205/attempt-025.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -1198,7 +1198,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  32s ago
 [2024-02-15T05:20:55.655Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-006.json
+  filename:           reorgs/block-19231207/attempt-006.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -1209,7 +1209,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  8s ago
 [2024-02-15T05:20:56.460Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-026.json
+  filename:           reorgs/block-19231205/attempt-026.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -1220,7 +1220,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  33s ago
 [2024-02-15T05:20:56.674Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-007.json
+  filename:           reorgs/block-19231207/attempt-007.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -1231,7 +1231,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  9s ago
 [2024-02-15T05:20:57.476Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-027.json
+  filename:           reorgs/block-19231205/attempt-027.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -1242,7 +1242,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  34s ago
 [2024-02-15T05:20:57.703Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-008.json
+  filename:           reorgs/block-19231207/attempt-008.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -1253,7 +1253,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  10s ago
 [2024-02-15T05:20:58.506Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-028.json
+  filename:           reorgs/block-19231205/attempt-028.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -1264,7 +1264,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  35s ago
 [2024-02-15T05:20:58.740Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-009.json
+  filename:           reorgs/block-19231207/attempt-009.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -1275,7 +1275,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  11s ago
 [2024-02-15T05:20:59.554Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-029.json
+  filename:           reorgs/block-19231205/attempt-029.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -1286,7 +1286,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  36s ago
 [2024-02-15T05:20:59.752Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-010.json
+  filename:           reorgs/block-19231207/attempt-010.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -1297,7 +1297,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  12s ago
 [2024-02-15T05:21:00.561Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-030.json
+  filename:           reorgs/block-19231205/attempt-030.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -1313,7 +1313,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   header.timestamp:   2024-02-15T05:20:59.000Z  0x65cd9f3b  1s ago
 [2024-02-15T05:21:00.786Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-011.json
+  filename:           reorgs/block-19231207/attempt-011.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -1325,7 +1325,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
 [2024-02-15T05:21:00.978Z  19,231,208  124] block ok  header.number=19,231,208  0xd286d7ee
 [2024-02-15T05:21:01.587Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-031.json
+  filename:           reorgs/block-19231205/attempt-031.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -1336,7 +1336,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  38s ago
 [2024-02-15T05:21:01.808Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-012.json
+  filename:           reorgs/block-19231207/attempt-012.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -1347,7 +1347,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  14s ago
 [2024-02-15T05:21:02.619Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-032.json
+  filename:           reorgs/block-19231205/attempt-032.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -1358,7 +1358,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  39s ago
 [2024-02-15T05:21:02.833Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-013.json
+  filename:           reorgs/block-19231207/attempt-013.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -1369,7 +1369,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  15s ago
 [2024-02-15T05:21:03.630Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-033.json
+  filename:           reorgs/block-19231205/attempt-033.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -1380,7 +1380,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  40s ago
 [2024-02-15T05:21:03.833Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-014.json
+  filename:           reorgs/block-19231207/attempt-014.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -1391,7 +1391,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  16s ago
 [2024-02-15T05:21:04.617Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-034.json
+  filename:           reorgs/block-19231205/attempt-034.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -1402,7 +1402,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  41s ago
 [2024-02-15T05:21:04.869Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-015.json
+  filename:           reorgs/block-19231207/attempt-015.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -1413,7 +1413,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  17s ago
 [2024-02-15T05:21:05.650Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-035.json
+  filename:           reorgs/block-19231205/attempt-035.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -1424,7 +1424,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  42s ago
 [2024-02-15T05:21:05.895Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-016.json
+  filename:           reorgs/block-19231207/attempt-016.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -1435,7 +1435,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  18s ago
 [2024-02-15T05:21:06.674Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-036.json
+  filename:           reorgs/block-19231205/attempt-036.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -1446,7 +1446,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  43s ago
 [2024-02-15T05:21:06.915Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-017.json
+  filename:           reorgs/block-19231207/attempt-017.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -1457,7 +1457,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  19s ago
 [2024-02-15T05:21:07.683Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-037.json
+  filename:           reorgs/block-19231205/attempt-037.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -1468,7 +1468,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  44s ago
 [2024-02-15T05:21:07.938Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-018.json
+  filename:           reorgs/block-19231207/attempt-018.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -1479,7 +1479,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  20s ago
 [2024-02-15T05:21:08.696Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-038.json
+  filename:           reorgs/block-19231205/attempt-038.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -1490,7 +1490,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  45s ago
 [2024-02-15T05:21:08.952Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-019.json
+  filename:           reorgs/block-19231207/attempt-019.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -1501,7 +1501,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  21s ago
 [2024-02-15T05:21:09.690Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-039.json
+  filename:           reorgs/block-19231205/attempt-039.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -1512,7 +1512,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  46s ago
 [2024-02-15T05:21:09.972Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-020.json
+  filename:           reorgs/block-19231207/attempt-020.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -1523,7 +1523,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  22s ago
 [2024-02-15T05:21:10.716Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-040.json
+  filename:           reorgs/block-19231205/attempt-040.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -1534,7 +1534,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  47s ago
 [2024-02-15T05:21:10.989Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-021.json
+  filename:           reorgs/block-19231207/attempt-021.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -1545,7 +1545,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  23s ago
 [2024-02-15T05:21:11.741Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-041.json
+  filename:           reorgs/block-19231205/attempt-041.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -1556,7 +1556,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  48s ago
 [2024-02-15T05:21:12.015Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-022.json
+  filename:           reorgs/block-19231207/attempt-022.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -1573,7 +1573,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
 [2024-02-15T05:21:12.671Z  19,231,209  125] block ok  header.number=19,231,209  0xaff9e0b2
 [2024-02-15T05:21:12.779Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-042.json
+  filename:           reorgs/block-19231205/attempt-042.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -1584,7 +1584,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  49s ago
 [2024-02-15T05:21:13.040Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-023.json
+  filename:           reorgs/block-19231207/attempt-023.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -1595,7 +1595,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  26s ago
 [2024-02-15T05:21:13.818Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-043.json
+  filename:           reorgs/block-19231205/attempt-043.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -1606,7 +1606,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  50s ago
 [2024-02-15T05:21:14.057Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-024.json
+  filename:           reorgs/block-19231207/attempt-024.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -1617,7 +1617,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  27s ago
 [2024-02-15T05:21:14.828Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-044.json
+  filename:           reorgs/block-19231205/attempt-044.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -1628,7 +1628,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  51s ago
 [2024-02-15T05:21:15.069Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-025.json
+  filename:           reorgs/block-19231207/attempt-025.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -1639,7 +1639,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  28s ago
 [2024-02-15T05:21:15.833Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-045.json
+  filename:           reorgs/block-19231205/attempt-045.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -1650,7 +1650,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  52s ago
 [2024-02-15T05:21:16.068Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-026.json
+  filename:           reorgs/block-19231207/attempt-026.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -1661,7 +1661,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  29s ago
 [2024-02-15T05:21:16.843Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-046.json
+  filename:           reorgs/block-19231205/attempt-046.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -1672,7 +1672,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  53s ago
 [2024-02-15T05:21:17.070Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-027.json
+  filename:           reorgs/block-19231207/attempt-027.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -1683,7 +1683,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  30s ago
 [2024-02-15T05:21:17.852Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-047.json
+  filename:           reorgs/block-19231205/attempt-047.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -1694,7 +1694,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  54s ago
 [2024-02-15T05:21:18.090Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-028.json
+  filename:           reorgs/block-19231207/attempt-028.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -1705,7 +1705,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  31s ago
 [2024-02-15T05:21:19.131Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-048.json
+  filename:           reorgs/block-19231205/attempt-048.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -1716,7 +1716,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  56s ago
 [2024-02-15T05:21:20.235Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-029.json
+  filename:           reorgs/block-19231207/attempt-029.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -1727,7 +1727,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  33s ago
 [2024-02-15T05:21:20.383Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-049.json
+  filename:           reorgs/block-19231205/attempt-049.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -1738,7 +1738,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  57s ago
 [2024-02-15T05:21:21.393Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-050.json
+  filename:           reorgs/block-19231205/attempt-050.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -1749,7 +1749,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  58s ago
 [2024-02-15T05:21:21.514Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-030.json
+  filename:           reorgs/block-19231207/attempt-030.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -1760,7 +1760,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  34s ago
 [2024-02-15T05:21:22.394Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-051.json
+  filename:           reorgs/block-19231205/attempt-051.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -1771,7 +1771,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  59s ago
 [2024-02-15T05:21:22.610Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-031.json
+  filename:           reorgs/block-19231207/attempt-031.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -1782,7 +1782,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  35s ago
 [2024-02-15T05:21:23.418Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-052.json
+  filename:           reorgs/block-19231205/attempt-052.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -1793,7 +1793,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  60s ago
 [2024-02-15T05:21:23.634Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-032.json
+  filename:           reorgs/block-19231207/attempt-032.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -1804,7 +1804,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  36s ago
 [2024-02-15T05:21:24.433Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-053.json
+  filename:           reorgs/block-19231205/attempt-053.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -1815,7 +1815,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  61s ago
 [2024-02-15T05:21:24.625Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-033.json
+  filename:           reorgs/block-19231207/attempt-033.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -1826,7 +1826,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  37s ago
 [2024-02-15T05:21:25.447Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-054.json
+  filename:           reorgs/block-19231205/attempt-054.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -1837,7 +1837,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  62s ago
 [2024-02-15T05:21:25.654Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-034.json
+  filename:           reorgs/block-19231207/attempt-034.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -1848,7 +1848,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  38s ago
 [2024-02-15T05:21:26.453Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-055.json
+  filename:           reorgs/block-19231205/attempt-055.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -1864,7 +1864,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   header.timestamp:   2024-02-15T05:21:23.000Z  0x65cd9f53  3s ago
 [2024-02-15T05:21:26.649Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-035.json
+  filename:           reorgs/block-19231207/attempt-035.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -1876,7 +1876,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
 [2024-02-15T05:21:26.689Z  19,231,210  126] block ok  header.number=19,231,210  0x26feed71
 [2024-02-15T05:21:27.449Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-056.json
+  filename:           reorgs/block-19231205/attempt-056.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -1887,7 +1887,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  64s ago
 [2024-02-15T05:21:27.658Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-036.json
+  filename:           reorgs/block-19231207/attempt-036.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -1898,7 +1898,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  40s ago
 [2024-02-15T05:21:28.457Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-057.json
+  filename:           reorgs/block-19231205/attempt-057.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -1909,7 +1909,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  65s ago
 [2024-02-15T05:21:28.684Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-037.json
+  filename:           reorgs/block-19231207/attempt-037.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -1920,7 +1920,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  41s ago
 [2024-02-15T05:21:29.461Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-058.json
+  filename:           reorgs/block-19231205/attempt-058.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -1931,7 +1931,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  66s ago
 [2024-02-15T05:21:29.717Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-038.json
+  filename:           reorgs/block-19231207/attempt-038.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -1942,7 +1942,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  42s ago
 [2024-02-15T05:21:30.753Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-059.json
+  filename:           reorgs/block-19231205/attempt-059.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -1953,7 +1953,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  67s ago
 [2024-02-15T05:21:31.754Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-060.json
+  filename:           reorgs/block-19231205/attempt-060.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -1964,7 +1964,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  68s ago
 [2024-02-15T05:21:31.837Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-039.json
+  filename:           reorgs/block-19231207/attempt-039.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -1975,7 +1975,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  44s ago
 [2024-02-15T05:21:32.876Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-061.json
+  filename:           reorgs/block-19231205/attempt-061.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -1986,7 +1986,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  69s ago
 [2024-02-15T05:21:32.997Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-040.json
+  filename:           reorgs/block-19231207/attempt-040.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -1997,7 +1997,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  45s ago
 [2024-02-15T05:21:33.898Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-062.json
+  filename:           reorgs/block-19231205/attempt-062.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -2008,7 +2008,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  70s ago
 [2024-02-15T05:21:34.083Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-041.json
+  filename:           reorgs/block-19231207/attempt-041.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -2019,7 +2019,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  47s ago
 [2024-02-15T05:21:34.917Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-063.json
+  filename:           reorgs/block-19231205/attempt-063.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -2030,7 +2030,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  71s ago
 [2024-02-15T05:21:35.113Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-042.json
+  filename:           reorgs/block-19231207/attempt-042.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -2041,7 +2041,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  48s ago
 [2024-02-15T05:21:35.925Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-064.json
+  filename:           reorgs/block-19231205/attempt-064.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -2052,7 +2052,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  72s ago
 [2024-02-15T05:21:36.157Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-043.json
+  filename:           reorgs/block-19231207/attempt-043.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -2063,7 +2063,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  49s ago
 [2024-02-15T05:21:36.943Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-065.json
+  filename:           reorgs/block-19231205/attempt-065.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -2074,7 +2074,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  73s ago
 [2024-02-15T05:21:37.217Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-044.json
+  filename:           reorgs/block-19231207/attempt-044.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -2091,7 +2091,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
 [2024-02-15T05:21:37.676Z  19,231,211  127] block ok  header.number=19,231,211  0xe6b6ef42
 [2024-02-15T05:21:37.967Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-066.json
+  filename:           reorgs/block-19231205/attempt-066.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -2102,7 +2102,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  74s ago
 [2024-02-15T05:21:38.253Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-045.json
+  filename:           reorgs/block-19231207/attempt-045.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -2113,7 +2113,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  51s ago
 [2024-02-15T05:21:39.004Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-067.json
+  filename:           reorgs/block-19231205/attempt-067.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -2124,7 +2124,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  76s ago
 [2024-02-15T05:21:39.286Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-046.json
+  filename:           reorgs/block-19231207/attempt-046.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -2135,7 +2135,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  52s ago
 [2024-02-15T05:21:40.036Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-068.json
+  filename:           reorgs/block-19231205/attempt-068.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -2146,7 +2146,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  77s ago
 [2024-02-15T05:21:40.294Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-047.json
+  filename:           reorgs/block-19231207/attempt-047.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -2157,7 +2157,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  53s ago
 [2024-02-15T05:21:41.086Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-069.json
+  filename:           reorgs/block-19231205/attempt-069.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -2168,7 +2168,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  78s ago
 [2024-02-15T05:21:41.393Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-048.json
+  filename:           reorgs/block-19231207/attempt-048.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -2179,7 +2179,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  54s ago
 [2024-02-15T05:21:42.129Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-070.json
+  filename:           reorgs/block-19231205/attempt-070.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -2190,7 +2190,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  79s ago
 [2024-02-15T05:21:42.483Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-049.json
+  filename:           reorgs/block-19231207/attempt-049.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -2201,7 +2201,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  55s ago
 [2024-02-15T05:21:43.151Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-071.json
+  filename:           reorgs/block-19231205/attempt-071.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -2212,7 +2212,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  80s ago
 [2024-02-15T05:21:43.513Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-050.json
+  filename:           reorgs/block-19231207/attempt-050.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -2223,7 +2223,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  56s ago
 [2024-02-15T05:21:44.181Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-072.json
+  filename:           reorgs/block-19231205/attempt-072.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -2234,7 +2234,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  81s ago
 [2024-02-15T05:21:44.531Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-051.json
+  filename:           reorgs/block-19231207/attempt-051.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -2245,7 +2245,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  57s ago
 [2024-02-15T05:21:45.203Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-073.json
+  filename:           reorgs/block-19231205/attempt-073.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -2256,7 +2256,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  82s ago
 [2024-02-15T05:21:45.567Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-052.json
+  filename:           reorgs/block-19231207/attempt-052.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -2267,7 +2267,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  58s ago
 [2024-02-15T05:21:46.212Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-074.json
+  filename:           reorgs/block-19231205/attempt-074.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -2278,7 +2278,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  83s ago
 [2024-02-15T05:21:46.592Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-053.json
+  filename:           reorgs/block-19231207/attempt-053.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -2289,7 +2289,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  59s ago
 [2024-02-15T05:21:47.245Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-075.json
+  filename:           reorgs/block-19231205/attempt-075.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -2300,7 +2300,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  84s ago
 [2024-02-15T05:21:47.935Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-054.json
+  filename:           reorgs/block-19231207/attempt-054.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -2311,7 +2311,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  60s ago
 [2024-02-15T05:21:48.293Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-076.json
+  filename:           reorgs/block-19231205/attempt-076.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -2327,7 +2327,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   header.timestamp:   2024-02-15T05:21:47.000Z  0x65cd9f6b  1s ago
 [2024-02-15T05:21:48.943Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-055.json
+  filename:           reorgs/block-19231207/attempt-055.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -2339,7 +2339,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
 [2024-02-15T05:21:49.100Z  19,231,212  128] block ok  header.number=19,231,212  0x1ccf79bf
 [2024-02-15T05:21:49.330Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-077.json
+  filename:           reorgs/block-19231205/attempt-077.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -2350,7 +2350,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  86s ago
 [2024-02-15T05:21:50.261Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-056.json
+  filename:           reorgs/block-19231207/attempt-056.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -2361,7 +2361,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  63s ago
 [2024-02-15T05:21:51.257Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-057.json
+  filename:           reorgs/block-19231207/attempt-057.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -2372,7 +2372,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  64s ago
 [2024-02-15T05:21:51.354Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-078.json
+  filename:           reorgs/block-19231205/attempt-078.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -2383,7 +2383,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  88s ago
 [2024-02-15T05:21:52.398Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-079.json
+  filename:           reorgs/block-19231205/attempt-079.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -2394,7 +2394,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  89s ago
 [2024-02-15T05:21:52.480Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-058.json
+  filename:           reorgs/block-19231207/attempt-058.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -2405,7 +2405,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  65s ago
 [2024-02-15T05:21:53.520Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-080.json
+  filename:           reorgs/block-19231205/attempt-080.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -2416,7 +2416,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  90s ago
 [2024-02-15T05:21:53.643Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-059.json
+  filename:           reorgs/block-19231207/attempt-059.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -2427,7 +2427,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  66s ago
 [2024-02-15T05:21:54.647Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-081.json
+  filename:           reorgs/block-19231205/attempt-081.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -2438,7 +2438,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  91s ago
 [2024-02-15T05:21:54.758Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-060.json
+  filename:           reorgs/block-19231207/attempt-060.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -2449,7 +2449,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  67s ago
 [2024-02-15T05:21:55.662Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-082.json
+  filename:           reorgs/block-19231205/attempt-082.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -2460,7 +2460,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  92s ago
 [2024-02-15T05:21:55.888Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-061.json
+  filename:           reorgs/block-19231207/attempt-061.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -2471,7 +2471,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  68s ago
 [2024-02-15T05:21:56.681Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-083.json
+  filename:           reorgs/block-19231205/attempt-083.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -2482,7 +2482,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  93s ago
 [2024-02-15T05:21:56.897Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-062.json
+  filename:           reorgs/block-19231207/attempt-062.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -2493,7 +2493,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  69s ago
 [2024-02-15T05:21:57.952Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-084.json
+  filename:           reorgs/block-19231205/attempt-084.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -2504,7 +2504,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  94s ago
 [2024-02-15T05:21:58.039Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-063.json
+  filename:           reorgs/block-19231207/attempt-063.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -2515,7 +2515,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  71s ago
 [2024-02-15T05:21:58.944Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-085.json
+  filename:           reorgs/block-19231205/attempt-085.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -2526,7 +2526,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  95s ago
 [2024-02-15T05:21:59.035Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-064.json
+  filename:           reorgs/block-19231207/attempt-064.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -2537,7 +2537,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  72s ago
 [2024-02-15T05:21:59.979Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-086.json
+  filename:           reorgs/block-19231205/attempt-086.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -2548,7 +2548,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  96s ago
 [2024-02-15T05:22:00.137Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-065.json
+  filename:           reorgs/block-19231207/attempt-065.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -2559,7 +2559,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  73s ago
 [2024-02-15T05:22:00.981Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-087.json
+  filename:           reorgs/block-19231205/attempt-087.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -2570,7 +2570,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  97s ago
 [2024-02-15T05:22:01.152Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-066.json
+  filename:           reorgs/block-19231207/attempt-066.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -2581,7 +2581,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  74s ago
 [2024-02-15T05:22:01.981Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-088.json
+  filename:           reorgs/block-19231205/attempt-088.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -2592,7 +2592,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  98s ago
 [2024-02-15T05:22:02.202Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-067.json
+  filename:           reorgs/block-19231207/attempt-067.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -2609,7 +2609,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
 [2024-02-15T05:22:02.684Z  19,231,213  129] block ok  header.number=19,231,213  0xd5219638
 [2024-02-15T05:22:02.967Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-089.json
+  filename:           reorgs/block-19231205/attempt-089.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -2620,7 +2620,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  99s ago
 [2024-02-15T05:22:03.198Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-068.json
+  filename:           reorgs/block-19231207/attempt-068.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -2631,7 +2631,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  76s ago
 [2024-02-15T05:22:04.001Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-090.json
+  filename:           reorgs/block-19231205/attempt-090.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -2642,7 +2642,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  101s ago
 [2024-02-15T05:22:04.219Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-069.json
+  filename:           reorgs/block-19231207/attempt-069.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -2653,7 +2653,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  77s ago
 [2024-02-15T05:22:05.028Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-091.json
+  filename:           reorgs/block-19231205/attempt-091.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -2664,7 +2664,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  102s ago
 [2024-02-15T05:22:05.266Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-070.json
+  filename:           reorgs/block-19231207/attempt-070.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -2675,7 +2675,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  78s ago
 [2024-02-15T05:22:06.073Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-092.json
+  filename:           reorgs/block-19231205/attempt-092.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -2686,7 +2686,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  103s ago
 [2024-02-15T05:22:06.281Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-071.json
+  filename:           reorgs/block-19231207/attempt-071.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -2697,7 +2697,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  79s ago
 [2024-02-15T05:22:07.080Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-093.json
+  filename:           reorgs/block-19231205/attempt-093.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -2708,7 +2708,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  104s ago
 [2024-02-15T05:22:07.291Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-072.json
+  filename:           reorgs/block-19231207/attempt-072.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -2719,7 +2719,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  80s ago
 [2024-02-15T05:22:08.100Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-094.json
+  filename:           reorgs/block-19231205/attempt-094.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -2730,7 +2730,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  105s ago
 [2024-02-15T05:22:08.329Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-073.json
+  filename:           reorgs/block-19231207/attempt-073.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -2741,7 +2741,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  81s ago
 [2024-02-15T05:22:09.135Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-095.json
+  filename:           reorgs/block-19231205/attempt-095.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -2752,7 +2752,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  106s ago
 [2024-02-15T05:22:09.360Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-074.json
+  filename:           reorgs/block-19231207/attempt-074.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -2763,7 +2763,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  82s ago
 [2024-02-15T05:22:10.166Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-096.json
+  filename:           reorgs/block-19231205/attempt-096.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -2774,7 +2774,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  107s ago
 [2024-02-15T05:22:10.371Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-075.json
+  filename:           reorgs/block-19231207/attempt-075.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -2785,7 +2785,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  83s ago
 [2024-02-15T05:22:11.176Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-097.json
+  filename:           reorgs/block-19231205/attempt-097.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -2796,7 +2796,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  108s ago
 [2024-02-15T05:22:11.399Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-076.json
+  filename:           reorgs/block-19231207/attempt-076.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -2807,7 +2807,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:47.000Z  0x65cd9f2f  84s ago
 [2024-02-15T05:22:12.207Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-098.json
+  filename:           reorgs/block-19231205/attempt-098.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -2818,7 +2818,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  109s ago
 [2024-02-15T05:22:12.431Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-077.json
+  filename:           reorgs/block-19231207/attempt-077.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
@@ -2834,7 +2834,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   header.timestamp:   2024-02-15T05:22:11.000Z  0x65cd9f83  2s ago
 [2024-02-15T05:22:13.225Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-099.json
+  filename:           reorgs/block-19231205/attempt-099.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -2846,7 +2846,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
 [2024-02-15T05:22:13.479Z  19,231,214  130] block ok  header.number=19,231,214  0x0b4b2539
 [2024-02-15T05:22:14.269Z  19,231,205  121] inconsistent block data
   transactions:       205
-   filename:          reorgs/block-19231205/attempt-100.json
+  filename:           reorgs/block-19231205/attempt-100.json
   header.number:      19,231,205  0x12571e5
   header.hash:        0xdbf295b34700bf44e9a0fa18b0d176a2737b0b00a078fb81af6dcab32cd73c50
   header.parentHash:  0xc2912fcf7c3c24f5264a2c12241bf5a01ece45d457595b2358f6e5b20db40763
@@ -2857,7 +2857,7 @@ subscribed to new blocks  subscription=0xaca04358c6a1c4829cd89890d4c4dede
   block.timestamp:    2024-02-15T05:20:23.000Z  0x65cd9f17  111s ago
 [2024-02-15T05:22:14.460Z  19,231,207  123] inconsistent block data
   transactions:       17
-   filename:          reorgs/block-19231207/attempt-078.json
+  filename:           reorgs/block-19231207/attempt-078.json
   header.number:      19,231,207  0x12571e7
   header.hash:        0xe496f164d42a50dac81116677cb13edce05596204a8b085b4b5319b7aa4b3003
   header.parentHash:  0x0ef640f90a3d53a855b23b863ef5df9c5268ab1099b18588866796721a48f798
