@@ -109,14 +109,11 @@ async function onNewBlockHeader(header) {
     }).then((res) => res.json()).then(({ result }) => result)));
 
     const inconsistentTransactions = [];
-    txloop:
     for (let tidx = 0, txCount = block.transactions.length; tidx < txCount; tidx++) {
       const tx = block.transactions[tidx];
       const receipt = receipts[tidx];
-
       if (tx.blockHash !== receipt.blockHash) {
         inconsistentTransactions.push({ tx, receipt, });
-        continue txloop;
       }
     }
 
